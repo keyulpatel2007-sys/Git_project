@@ -4,4 +4,4 @@ Edit this file to practise status, diff, add, and commit.
 this is the changes i am doing in the main branch
 
 
-this is the new faeture add in new feature in branch
+this is the changed feature can make conflict from login_feature
