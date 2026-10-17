@@ -1,0 +1,4 @@
+Practice ideas:
+- Add a feature branch
+- Create a merge conflict
+- Resolve it carefully

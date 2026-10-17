@@ -1,0 +1,3 @@
+Git Practice Lab
+Current version: 1
+Edit this file to practise status, diff, add, and commit.
